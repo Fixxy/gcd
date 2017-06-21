@@ -1,2 +1,2 @@
 # gcd
-Downloading comics from getcomics.info
+Downloading comics from getcomics.info (via zippyshare link)
